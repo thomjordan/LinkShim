@@ -1,8 +1,6 @@
 #import <Foundation/Foundation.h>
 
 
-
-
 @protocol ALinkShimDelegate
 - (void) linkShimPropertiesUpdated:(id)linkShim;
 - (void) linkShimNumPeersUpdated:(id)linkShim;
